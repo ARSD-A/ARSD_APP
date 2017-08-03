@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1049083687527",
+    "firebase_url": "https://arsd-app.firebaseio.com",
+    "project_id": "arsd-app",
+    "storage_bucket": "arsd-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049083687527:android:dc3e6f7fd71e29ce",
+        "android_client_info": {
+          "package_name": "com.samridhi.arsdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049083687527-f23r479ec053vvvh4gc22uuav20g7h9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samridhi.arsdf",
+            "certificate_hash": "d4c3ed3f8523cf87a88e9465f44fdbc891a55ede"
+          }
+        },
+        {
+          "client_id": "1049083687527-i7ncs1e3qs616qr6cbnart20fl963o3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwIQ4r2bqZ0RqKszYyiVSesFK5al-AGSs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049083687527-i7ncs1e3qs616qr6cbnart20fl963o3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+
+  "configuration_version": "1"
+}

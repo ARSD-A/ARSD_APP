@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#080808</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#f8d9192f</color>
+    <color name="text_color1">#0b28aa</color>
+    <color name="text_color">#1331b6</color>
+    <color name="bg_color">#ecebe9</color>
+    <color name="red">#ab1d1d</color>
+    <color name="b_bgcolor">#bea9a0a0</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#FF000000</color>
+    <color name="select">#78a2e7</color>
+    <color name="grey">#8d8a8a</color>
+    <color name="bgdes">#c401041d</color>
+    <color name="bgdes2">#d6141416</color>
+    <color name="bgdes1">#896d6d6f</color>
+    <color name="blue">#fe3161aa</color>
+    <color name="bluedark">#fe182f53</color>
+    <color name="bgdes3">#cfc4cbf8</color>
+    <color name="bg_tileTitle">#fd0554e1</color>
+    <color name="bg_tile">#fbd9c1ee</color>
+    <color name="bg_tilepic">#98000310</color>
+    <color name="bg_flash">#e5e1e1</color>
+    <color name="bg_faculty_society">#fea097a0</color>
+    <color name="courses_cholar_tide">#feaa9491</color>
+    <color name="bg_stud_acad_dept_map">#964c4e57</color>
+    <color name="bg_fest">#fef4a8b2</color>
+    <color name="bg_map">#fed3dfae</color>
+    <color name="canteen">#d57fbd8e</color>
+    <color name="lightblue">#ae4fb7f3</color>
+
+</resources>

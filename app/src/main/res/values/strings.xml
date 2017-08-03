@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">"ARSD College"</string>
+
+
+    <string name="name">ARSD COLLEGE</string>
+    <string name="contact">Address: Dhaula kuan-110021\n
+        Contact No: 011-24113436,  011-24117508\n
+        Email : principal@arsd.du.ac.in
+    </string>
+
+
+    <string name="news">This welfare committee was set up to address the issues concerning North East Students studying in the college. It works towasds creating a platform for helping them to integrate smoothly with the rest of the students by organizing social events, activities and intentionally menor them to launch their academic career smoothly.</string>
+
+    <string name="ecs">The Eco Club of the college, funded by Department of Environment, Govt. of NCT, Delhi organized its second annual function on 29 January 2016. The society aims at making students aware of the vanishing species of plants and animals, the various climatic calamities, their supposed causes and effects.</string>
+
+    <string name="fs">Upholding the importance of visuals in the education of young minds, the College has a dynamic Film Society which organizes movie screenings on a regular basis. Award-winning, thought-provoking, deliberative and stimulating movies from all over the world are showcased for the benefit of students.</string>
+
+    <string name="fcs">The society has been revived after 30 years with active participation and hard work of students and teachers and so far more than 50 students who have genuine interest and flare for art have themselves registered in the society. The objective of this society is to mainly focus on enhancing the creativity and skill of the students as well as provide them with an experience and knowledge which helps them reach the right amount of efficiency level required to be perfect in their tasks in creative fields</string>
+
+    <string name="wdc">The Women Development Cell was instituted at ARSD College with the objective to empower female students through higher education and skill development. It energizes students in their fight against cultures of oppression, silence and discrimination. The Cell believes in strengthening students by creating awareness about socio-political, cultural, and legal perspectives through talks, workshops and symposia. </string>
+
+    <string name="cs">The College is committed to the all-round development of the students. Thus, it has set up various cultural societies that are very active. Akrit, the dance group and Saarang, the music group, under the Cultural society of the College are outstanding. The cultural society organizes a musical event, Awaaz and a dance event called Tarang to encourage the students to engage themselves in the cultural events. Teacher\'s day was celebrated by the students of the Cultural Society on 4th September every year to show respect and gratitude to their Gurus.</string>
+
+    <string name="ds">The Dramatic Society of the College, Rangayan, holds a prestigious position among the top dramatic societies in the University. Rangayan, was founded a decade ago with the aim of inculcating in the students an appreciation for theatre and dramaturgy as well as highlighting collective conscience as an imperative. The society uses theatre to create socio-political awareness. Its success is testified to by the enormous talent and unmatched enthusiasm of our budding actors and the dedication of the teachers. Every year, Rangayan organizes a month-long production oriented theatre workshop in collaboration with National School of Drama and Sahitya Kala Parishad</string>
+
+    <string name="es">Nimbus, the English Debating Society of ARSD College has a membership of over 50 highly motivated students. Through their hard work and dedication the society actively contributes to the intellectual environment of the college. The society provides a platform for developing the debating skills of the students as well as to guide the newer students to tap their potential through interactive teamwork.</string>
+
+    <string name="ac">The theme of this study circle is to highlight the role played by \'Nation Builder Baba Sahib Bhim Rao Ambedkar\'. The society aims at teaching the contemporary relevance of Ambedkar\'s views and how all the sections of the society should learn from his ideals</string>
+
+    <string name="gc">The Gandhi Study Circle, ARSD College, is dedicated to propagate the message of Gandhiji to young students as well as the college fraternity to instil the values of satya, ahimsa and shanti. The Gandhi Study Circle provides an active platform to the students to express diverse opinions on different topics, going beyond mere promotion of Gandhian values. To achieve the stipulated objectives the society organizes seminars, debates, quiz competitions peace marches, observance on Gandhi Jayanti and Martyr\'s Day.</string>
+
+    <string name="hs">The Hindi Debating Society of ARSD College has a membership of over 50 highly motivated students. Through their hard work and dedication the society actively contributes to the intellectual environment of the college. </string>
+
+    <string name="ncc">National Cadet Corps is the largest student\'s uniformed organization in India. The ARSD NCC branch is affiliated to 7 Delhi Battalion under Group C of Delhi NCC Directorate. ARSD NCC is one of the most active student society of this college which aims to develop character, comradeship, discipline, leadership, secular outlook, spirit of adventure and the ideals of selfless service amongst the youth, which has further helped the cadets to find their way to Indian Defense Services and other such careers.</string>
+
+    <string name="nss">The National Service Scheme (NSS) is one of the most vibrant societies of ARSD College. This society has taken many initiatives in the field of community activities, such as social work, health issues, environment issues, campaign against drug abuse and cultural activities. Today more than 150 students are registered as NSS volunteers and they actively participate in all activities organized by NSS Unit of the college. </string>
+
+    <string name="enactus">Participating students form teams and apply business concepts to develop outreach projects that improve the quality of life and standard of living for people in need. Through the Enactus India National Competition and Enactus World Cup, teams are provided a forum to present the results of their projects, and to be evaluated by business leaders serving as judges. In addition, Enactus\'s leadership and career initiatives create opportunities for learning and exchange among the participants as well as the placement of students and alumni with Enactus partner companies in search of emerging talent.</string>
+
+
+    <string name="chem">Every Year Chemistry Department of Atma Ram Sanatan Dharma College organize its annual department fest "CHEMCROWN".The society organizes a series of events which comprised of general science and chemistry to popularize science among students of all disciplines and streams. </string>
+
+    <string name="com">Every Year Commerce Department of Atma Ram Sanatan Dharma College organize its annual department fest "COMMERCICO".The society organizes a series of events like mock stock, poster making, wordcapture, bizz quiz, 50kafunda and AD mad. </string>
+
+    <string name="comp">Every Year Computer Department of Atma Ram Sanatan Dharma College organize its annual department fest "TECH-A-THON".The society organizes seminars and various events like hack-d-code, algo-rhythm quest-mania,dig-d-data and cyber hunt.This Fest inspires and celebrates the creativity, talent, innovation and achievements of the students.</string>
+
+    <string name="eco">Every Year Economics Department of Atma Ram Sanatan Dharma College organize its annual department fest "QUAESTUS".The society organizes various events like band wars, debate, general quiz, paper presentations and mock stock.</string>
+
+    <string name="eng">Every Year English Department of Atma Ram Sanatan Dharma College organize its annual department fest "SONNET".The society organizes series of events like pictionary, pop quiz, one arm challenge and literary huntsville based on litery characters. </string>
+
+    <string name="hindi">Every Year Hindi Department of Atma Ram Sanatan Dharma College organize one day events like talk, poem recitation and debate competition</string>
+
+    <string name="his">Every Year History Department of Atma Ram Sanatan Dharma College organize its annual department fest "CLIO CALLING".The society organizes various events like poster making, bi-lingual debate and brand race.</string>
+
+    <string name="maths">Every Year Mathematics Department of Atma Ram Sanatan Dharma College organize its annual department fest "TANGENTIA".The society organizes various events like fake the research, picture mania, pro cricket, math mad and logic masters and the winners are awarded with cash prizes and certificates.</string>
+
+    <string name="phy">Every Year Physics Department of Atma Ram Sanatan Dharma College organize its annual department fest "FEYNMANIA".The society organizes various events like quiz, pictogram, thinkception, showbiz, soundless.</string>
+
+    <string name="pol">Every Year Political Science Department of Atma Ram Sanatan Dharma College organize its annual department fest "REPUBLICA".The society organizes various events like debate, talk, inter-college quiz competition.</string>
+
+
+    <string name="sank">Every Year Sanskrit Department of Atma Ram Sanatan Dharma College organize a talk .</string>
+
+</resources>

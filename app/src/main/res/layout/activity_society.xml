@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_faculty_society"
+    tools:context="com.samridhi.arsdf.SocietyActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/arsd_top"/>
+        <Button
+            android:layout_marginTop="40sp"
+            android:layout_width="200sp"
+            android:layout_height="70sp"
+            android:text="Cultural Society"
+            android:background="#e2ec8f31"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:id="@+id/b1"
+            android:textSize="20sp"
+            />
+        <Button
+            android:layout_marginTop="25sp"
+            android:layout_width="200sp"
+            android:layout_height="70sp"
+            android:text="Dramatics Society"
+            android:background="#e237b4ed"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:id="@+id/b2"
+            android:textSize="20sp"
+            />
+        <Button
+            android:layout_marginTop="25sp"
+            android:layout_width="200sp"
+            android:layout_height="70sp"
+            android:text="English Debating Society"
+            android:background="#e2ec8f31"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:id="@+id/b3"
+            android:textSize="20sp"
+            />
+        <Button
+            android:layout_marginTop="25sp"
+            android:layout_width="200sp"
+            android:layout_height="70sp"
+            android:text="Ambedkar Study Circle"
+            android:background="#e237b4ed"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:id="@+id/b4"
+            android:textSize="20sp"
+            />
+        <Button
+            android:layout_marginTop="25sp"
+            android:layout_width="200sp"
+            android:layout_height="70sp"
+            android:text="Gandhi Study circle"
+            android:background="#e2ec8f31"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:id="@+id/b5"
+            android:textSize="20sp"
+
+            />
+        <Button
+            android:layout_marginTop="25sp"
+            android:layout_width="200sp"
+            android:layout_height="70sp"
+            android:text="hindi debating Society"
+            android:background="#e237b4ed"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:id="@+id/b6"
+            android:textSize="20sp"
+            />
+        <Button
+            android:layout_marginTop="25sp"
+            android:layout_width="200sp"
+            android:layout_height="50sp"
+            android:text="ncc"
+            android:background="#e2ec8f31"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:id="@+id/b7"
+            android:textSize="20sp"
+            />
+        <Button
+            android:layout_marginTop="25sp"
+            android:layout_width="200sp"
+            android:layout_height="50sp"
+            android:text="nss"
+            android:background="#e237b4ed"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:id="@+id/b8"
+            android:textSize="20sp"
+            />
+        <Button
+            android:layout_marginTop="25sp"
+            android:layout_width="200sp"
+            android:layout_height="50sp"
+            android:text="WDC"
+            android:background="#e2ec8f31"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:id="@+id/b9"
+            android:textSize="20sp"
+            />
+        <Button
+            android:layout_marginTop="25sp"
+            android:layout_width="200sp"
+            android:layout_height="70sp"
+            android:text="fine arts and Crafts society"
+            android:background="#e237b4ed"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:id="@+id/b10"
+            android:textSize="20sp"
+            />
+        <Button
+            android:layout_marginTop="25sp"
+            android:layout_width="200sp"
+            android:layout_height="70sp"
+            android:text="film appreciation"
+            android:background="#e2ec8f31"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:id="@+id/b11"
+            android:textSize="20sp"
+            />
+        <Button
+            android:layout_marginTop="25sp"
+            android:layout_width="200sp"
+            android:layout_height="70sp"
+            android:text="Eco club society"
+            android:background="#e237b4ed"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:id="@+id/b12"
+            android:textSize="20sp"
+            />
+       <Button
+            android:layout_marginTop="25sp"
+            android:layout_width="200sp"
+            android:layout_height="70sp"
+            android:text="North East Welfare Committee"
+           android:background="#e2ec8f31"
+           android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:id="@+id/b13"
+            android:textSize="20sp"
+            />
+       <Button
+            android:layout_marginTop="25sp"
+            android:layout_width="200sp"
+            android:layout_height="50sp"
+            android:text="Enactus"
+           android:background="#e237b4ed"
+           android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:id="@+id/b14"
+            android:textSize="20sp"
+            />
+
+    </LinearLayout>
+</ScrollView>

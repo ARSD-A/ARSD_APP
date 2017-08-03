@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.samridhi.arsdf">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <service android:name=".fcm_msg"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name=".fcm_id"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name=".FlashScreen"
+            android:noHistory="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Dep_festActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".TideActivity" />
+        <activity android:name=".Aboutus" />
+        <activity
+            android:name=".StudentC"
+            android:screenOrientation="portrait" />
+        <activity android:name=".AcademicC" />
+        <activity android:name=".Courses" />
+        <activity android:name=".SocietyActivity" />
+        <activity android:name=".Botany" />
+        <activity android:name=".CanteenActivity" />
+        <activity android:name=".Chemistry" />
+        <activity android:name=".Clgmap" />
+        <activity
+            android:name=".CollegeMap"
+            android:screenOrientation="portrait" />
+        <activity android:name=".Commerce" />
+        <activity android:name=".Computer" />
+        <activity android:name=".Detail" />
+        <activity android:name=".Economics" />
+        <activity android:name=".Electronics" />
+        <activity android:name=".English" />
+        <activity android:name=".Faculty" />
+        <activity android:name=".FestActicity" />
+        <activity android:name=".Hindi" />
+        <activity android:name=".History" />
+        <activity android:name=".Mathematics" />
+        <activity android:name=".Physics" />
+        <activity android:name=".Political" />
+        <activity android:name=".Sanskrit" />
+        <activity android:name=".Scholar" />
+        <activity android:name=".Sports" />
+        <activity android:name=".Zoology" />
+        <activity android:name=".EventActivity">
+            <intent-filter>
+                <action android:name="OPEN_ACTIVITY_1" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+
+
+    </application>
+
+</manifest>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_fest"
+    tools:context="com.samridhi.arsdf.FestActicity">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+       <ImageView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:src="@drawable/arsd_top"
+           android:id="@+id/i"/>
+
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/b1"
+        android:scaleType="fitXY"
+        android:layout_below="@+id/i"
+        android:src="@drawable/dept"
+        android:paddingLeft="0dp"
+        android:paddingTop="0dp"
+        android:paddingRight="0dp"
+        android:paddingBottom="0dp"
+        android:layout_marginTop="60dp"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="113sp"
+        android:layout_height="55sp"
+        android:text="Department Fest"
+        android:textColor="@color/black"
+        android:id="@+id/t1"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_below="@+id/b1"
+        android:layout_alignRight="@+id/b1"
+        android:layout_alignEnd="@+id/b1" />
+
+
+    <ImageButton
+
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/b2"
+        android:src="@drawable/t"
+        android:scaleType="fitXY"
+        android:paddingLeft="2.75dp"
+        android:paddingTop="3dp"
+        android:paddingRight="2.75dp"
+        android:paddingBottom="1dp"
+        android:layout_marginTop="71dp"
+        android:layout_below="@+id/t1"
+        android:layout_alignLeft="@+id/b1"
+        android:layout_alignStart="@+id/b1" />
+    <TextView
+        android:layout_width="115dp"
+        android:layout_height="50dp"
+        android:text="Tide"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="19sp"
+        android:id="@+id/t2"
+        android:layout_below="@+id/b2"
+        android:layout_alignLeft="@+id/b2"
+        android:layout_alignStart="@+id/b2"
+        android:layout_alignRight="@+id/b2"
+        android:layout_alignEnd="@+id/b2" />
+
+    </RelativeLayout>
+</ScrollView>
